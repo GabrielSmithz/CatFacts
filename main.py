@@ -12,5 +12,5 @@ def main():
                 o.write(fact)
             o.write("\n")
         i+=1
-print("hi")
+
 main()
